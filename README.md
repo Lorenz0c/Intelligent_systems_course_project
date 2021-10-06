@@ -1,6 +1,6 @@
 # Intelligent_systems_course_project
 
-This is the project has been realized as par of the exam for the course Advanced Intelligent System of Università degli studi di Milano.
+This is the project has been realized as par of the exam for the course Advanced Intelligent System of Università degli studi di Milano (accademic year 2019-2020).
 
 The main scope of the project was the use of Recurrent Neural Networks.
 In particular, the project pourpose was to try to classify SPAM and non-SPAM SMS, and tweets according to their sentiment.
